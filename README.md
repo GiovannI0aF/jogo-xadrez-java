@@ -4,10 +4,10 @@ Este é um projeto de back end construído durante o curso [Java COMPLETO 2023 P
 
 A aplicação consiste em um jogo de xadrez desenvolvido com a linguagem Java.
 
+<div align='center' style='display: inline_block'><img src="https://raw.githubusercontent.com/GiovanniASBF/jogo-xadrez-java/main/chess-game-cmd.gif" alt="Gif do game"></div>
+
 ## Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/GiovanniASBF/jogo-xadrez-java/main/chess-system-design.png)
-
-<div align='center' style='display: inline_block'><img src="https://imgur.com/a/7R6lrrr" alt="Gif do game"></div>
 
 # Como executar o projeto
 

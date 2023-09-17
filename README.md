@@ -1,18 +1,32 @@
-## Getting Started
+# Sobre o projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de back end construído durante o curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/), na plataforma da **[Udemy](https://www.udemy.com/)**, ministrado pelo professor Nelio Alves.
 
-## Folder Structure
+A aplicação consiste em um jogo de xadrez desenvolvido com a linguagem Java.
 
-The workspace contains two folders by default, where:
+## Modelo conceitual
+![Modelo Conceitual](https://raw.githubusercontent.com/GiovanniASBF/jogo-xadrez-java/main/chess-system-design.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<div align='center' style='display: inline_block'><img src="https://imgur.com/a/7R6lrrr" alt="Gif do game"></div>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Como executar o projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+```bash
+# clonar repositório
+git clone https://github.com/GiovanniASBF/jogo-xadrez-java.git
 
-## Dependency Management
+# entrar na pasta bin do projeto
+cd bin
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# executar o projeto
+java application/Program
+```
+
+# Autor
+
+Giovanni Aguiar de Sousa Bernardes Figueiredo
+
+https://www.linkedin.com/in/giovanni-bernardes-figueiredo
+
+## Status
+<img src="https://img.shields.io/badge/Status-Finalizado-brightgreen">
